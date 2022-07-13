@@ -1,2 +1,7 @@
 # Project 1
-Security to data using color based Cryptography
+Data Security with Color Based Cryptography
+
+# Project 2
+Music Player with Mood Detection
+# Project 3
+Path Finder
